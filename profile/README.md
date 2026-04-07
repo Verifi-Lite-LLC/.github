@@ -29,7 +29,7 @@ Unlimited Free KYC verifications forever • Built for solo founders to enterpri
 ## 🚀 Quick Start
 
 ```bash
-# Install Web SDK
-npm install @verifilite/sdk
+# Check Docs
+docs.verifilite.com
 
 # Or use our no-code Widget
